@@ -1,3 +1,4 @@
+[![Build](https://github.com/Spector-Studios/go-inovation/actions/workflows/build.yml/badge.svg)](https://github.com/Spector-Studios/go-inovation/actions/workflows/build.yml)
 # Go port of "Inovation 2007" by Omega
 
 ## Original Work
